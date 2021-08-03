@@ -7,7 +7,7 @@
   Helpful bot is also in 10+ servers. Our goal is to reach 100 servers. Contribute us by inviting helpful bot! :tada:
 
 
-- :mailbox_with_mail: Support Server: https://discord.gg/Uker5NKCR4
+- :mailbox_with_mail: [Support Server](https://discord.gg/Uker5NKCR4)
 - :pencil: Name: Helpful bot
 - :card_index: ID: 867255808935854100
 - :white_check_mark: Verified yet?: No
