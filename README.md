@@ -15,6 +15,7 @@
 - 🛠️ Developer: FoUnDeR (FoUnDeR#7248)
 - 📥 Invite Link: https://discord.com/oauth2/authorize?client_id=867255808935854100&permissions=4294967287&scope=bot
 
+```
 Yes! Helpful has many features and basic ones too. Known as,
 - Memes :rofl: 
 - GIFs :zany_face: 
@@ -22,6 +23,6 @@ Yes! Helpful has many features and basic ones too. Known as,
 - Fun Commands (including specially button calculator) :skateboard: 
 - Utilities 🔧
 and much more features. 
+```
 
-
-Hey you! yeah you. Feels interesting about helpful bot? Well why are you waiting for? Invite him now! 👋
+**Hey you! yeah you. Feels interesting about helpful bot? Well why are you waiting for? Invite him now!** 👋
