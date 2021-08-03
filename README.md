@@ -13,7 +13,7 @@ A revolutionary bot made by FoUnDeR#7248.
 - :white_check_mark: Verified yet?: No
 - :ballot_box_with_check: Verified on disbot.xyz?: Yes
 - 🛠️ Developer: FoUnDeR (FoUnDeR#7248)
-- :invite: Invite Link: https://discord.com/oauth2/authorize?client_id=867255808935854100&permissions=4294967287&scope=bot
+- 📥 Invite Link: https://discord.com/oauth2/authorize?client_id=867255808935854100&permissions=4294967287&scope=bot
 
 Yes! Helpful has many features and basic ones too. Known as,
 - Memes :rofl: 
