@@ -15,6 +15,7 @@
 - :ballot_box_with_check: Verified on disbot.xyz?: `Yes`
 - 🛠️ Developer: FoUnDeR (FoUnDeR#7248)
 - 📥 [Invite Link](https://discord.com/oauth2/authorize?client_id=867255808935854100&permissions=4294967287&scope=bot)
+- 🟢 24/7 Online?: `Yes`
 
 **Helpful bot exist a lot of categories which are these:**
 ```
@@ -45,5 +46,5 @@
 - [Whistlers Support Server](https://discord.gg/tTdZYesRtu)
 - [April Project](https://discord.gg/F4Cq5yPTw2)
 
-*And these are my supporters who gave me ideas, and some of codes and improve me with this much skills. And make me excit about creating a bot. Thanks a lot fallas! 💙
+*And these are my supporters who gave me ideas, and some of codes and improve me with this much skills. And make me excit about creating a bot. Thanks a lot fallas! 💙*
 
