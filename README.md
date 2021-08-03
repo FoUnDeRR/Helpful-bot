@@ -20,7 +20,7 @@ Yes! Helpful has many features and basic ones too. Known as,
 - GIFs :zany_face: 
 - Moderation Commands 🛠️
 - Fun Commands (including specially button calculator) :skateboard: 
-- Utilies 🔧
+- Utilities 🔧
 and much more features. 
 
 
