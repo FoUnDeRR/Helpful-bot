@@ -1,0 +1,47 @@
+Having issues with error handling commands? Well you can learn it from here. In here you can see the code with instructions.
+
+The basic command for error handling;
+
+@removerole.error
+async def removerole_error(ctx, error):
+    if isinstance(error, commands.MissingPermissions):
+        await ctx.send("")
+ 
+This is how you exactly make a error handler. This is not that hard. You can enter any names onto @removerole.error.
+Examples:
+@changeprefix.error
+async def changeprefix_error(ctx, error):
+    if isinstance(error, commands.MissingPermissions):
+        await ctx.send("In this blank, you can add anything you want.")
+
+Example:
+await ctx.send("Hold up hold up! You're missing Administrator Permissions")
+
+
+If you made a mute command and wanted to add error handler, well no problem!
+Follow below instructions. Follow step-by-step.
+
+1) Add a syntax name into your error blank.
+   Example: @mute.error
+   
+2) async the error what you want to make.
+   Example: async def mute_error(ctx, error):   (after async def, it must be like mute_error. not mute.error)
+   
+3) You must make isinstance Missing Permissions.
+   Example: if isinstance(error, commands.MissingPermissions):
+   
+4) Well you came to final step. This is not that hard like i said. You've to add sending text when someone typed <your bot prefix>mute.
+   Example: await ctx.send("Missing Manage Messages Permissions")
+   
+So this is how you make a error handling code.
+Wait, still confused about it? No worries! here's the full code what you need.
+
+
+@mute.error
+async def mute_error(ctx, error):
+    if isinstance(error, commands.MissingPermissions):
+        await ctx.send("Missing Manage Messages Permissions")
+        
+You can change await ctx.send("This blank") anytime you want. That will display in text channel after someone uses mute command.
+And if you're making something other error handler, for example: kick error handler, you can change mute_error to kick_error. and also @mute.error to @kick.error
+        
