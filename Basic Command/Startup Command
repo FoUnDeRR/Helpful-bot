@@ -1,0 +1,16 @@
+import discord
+import asyncio
+import random
+import os
+import datetime
+import DiscordUtils
+
+client = commands.Bot(command_prefix = ">")
+
+@client.event
+async def on_ready():
+    print('Bot is Ready')
+
+client.run("Your Bot Token Is Here")
+
+#After Doing this, open your command prompt or .vscode terminal and run this file. And your bot will come online!
