@@ -8,21 +8,21 @@
 
 
 - :mailbox_with_mail: [Support Server](https://discord.gg/Uker5NKCR4)
-- :pencil: Name: Helpful bot
-- :card_index: ID: 867255808935854100
-- :white_check_mark: Verified yet?: No
-- :ballot_box_with_check: Verified on disbot.xyz?: Yes
+- :pencil: Name: **`Helpful Bot`**
+- :card_index: ID: `867255808935854100`
+- :white_check_mark: Verified yet?: `No`
+- :ballot_box_with_check: Verified on disbot.xyz?: `Yes`
 - 🛠️ Developer: FoUnDeR (FoUnDeR#7248)
-- 📥 Invite Link: https://discord.com/oauth2/authorize?client_id=867255808935854100&permissions=4294967287&scope=bot
+- 📥 [Invite Link](https://discord.com/oauth2/authorize?client_id=867255808935854100&permissions=4294967287&scope=bot)
 
+**Helpful bot exist a lot of categories which are these.**
 ```
-Yes! Helpful has many features and basic ones too. Known as,
-- Memes :rofl: 
-- GIFs :zany_face: 
-- Moderation Commands 🛠️
-- Fun Commands (including specially button calculator) :skateboard: 
-- Utilities 🔧
-and much more features. 
+- Memes
+- GIFs 
+- Moderation Commands
+- Fun Commands (including specially button calculator)
+- Utilities 
+- And much more features. 
 ```
 
 **Hey you! yeah you. Feels interesting about helpful bot? Well why are you waiting for? Invite him now!** 👋
