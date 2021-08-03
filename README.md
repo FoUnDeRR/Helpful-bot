@@ -14,4 +14,13 @@ A revolutionary bot made by FoUnDeR#7248.
 - Developer: FoUnDeR (FoUnDeR#7248)
 - Invite Link: https://discord.com/oauth2/authorize?client_id=867255808935854100&permissions=4294967287&scope=bot
 
-Invite Helpful bot to your server now and keep your server easier and make yourselves comfortable.
+Yes! Helpful has many features and basic ones too. Known as,
+- Memes
+- GIFs
+- Moderation Commands
+- Fun Commands (including specially button calculator)
+- Utilies
+and much more features. 
+
+
+Hey you! yeah you. Feels interesting about helpful bot? Well why are you waiting for? Invite him now!
