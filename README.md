@@ -12,7 +12,7 @@
 - :pencil: Name: **`Helpful Bot`**
 - :card_index: ID: `867255808935854100`
 - :white_check_mark: Verified yet?: `No`
-- :ballot_box_with_check: Verified on disbot.xyz?: `Yes`
+- :ballot_box_with_check: Verified on disbotlist.xyz?: `Yes`
 - 🛠️ Developer: FoUnDeR (FoUnDeR#7248)
 - 📥 [Invite Link](https://discord.com/oauth2/authorize?client_id=867255808935854100&permissions=4294967287&scope=bot)
 - 🟢 24/7 Online?: `Yes`
