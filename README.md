@@ -39,12 +39,12 @@
 
 # Support
 
-*I won't have these ideas, creations with out my friends. And i would like to thanks them very much for supporting me and never let me down. For the thank, i can show them's discord servers.*
+*I won't have these ideas, creations with out my friends. And i would like to thank them very much for supporting me and never let me down. As a appreciation, i can show them's discord servers.*
 
 - [Publicity Exposed](https://discord.gg/79UTd2ysNs)
 - [Modbot Development Server](https://discord.gg/TW2YKgUpy2)
 - [Whistlers Support Server](https://discord.gg/tTdZYesRtu)
 - [April Project](https://discord.gg/F4Cq5yPTw2)
 
-*And these are my supporters who gave me ideas, and some of codes and improve me with this much skills. And make me excit about creating a bot. Thanks a lot fallas! 💙*
+*And these are my supporters who gave me ideas, and gave me some of codes and improved my skills. And made me excit about creating a bot. Thanks a lot fallas! 💙*
 
